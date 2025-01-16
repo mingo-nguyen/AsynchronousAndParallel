@@ -61,6 +61,7 @@ app.MapGet("/restaurants/update", async (HttpContext context) =>
     try
     {
         var restaurants = await ProcessRestaurantsParallelAsync();
+        await SaveRestaurantsToFile(restaurants);
         foreach (var res in restaurants)
         {
             await context.Response.WriteAsync($"<div style='margin-bottom: 20px'>");
@@ -87,7 +88,7 @@ app.MapGet("/restaurants", async (HttpContext context) =>
     context.Response.WriteAsync("<h1> This is the Shopee Food Restaurant Page</h1>");
     try
     {
-        var restaurants = await ProcessRestaurantsParallelAsync();
+        var restaurants = await LoadRestaurantsFromFile();
         foreach (var res in restaurants)
         {
             await context.Response.WriteAsync($"<div style='margin-bottom: 20px'>");
@@ -145,11 +146,11 @@ static async Task SaveOrdersToFile(List<Order> orders)
     await File.WriteAllTextAsync("orders.json", json);
 }
 
-static async Task SaveRestaurantsToFile(List<Order> orders)
+static async Task SaveRestaurantsToFile(IEnumerable<Restaurant> res)
 {
     var options = new JsonSerializerOptions { WriteIndented = true };
-    var json = JsonSerializer.Serialize(orders, options);
-    await File.WriteAllTextAsync("orders.json", json);
+    var json = JsonSerializer.Serialize(res, options);
+    await File.WriteAllTextAsync("restaurants.json", json);
 }
 
 

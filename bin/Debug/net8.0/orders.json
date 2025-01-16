@@ -19,5 +19,12 @@
     "Address": "Ho Chi Minh City",
     "RestaurantId": "R789",
     "DeliveryStatus": "PENDING"
+  },
+  {
+    "OrderId": 0,
+    "FoodList": null,
+    "Address": null,
+    "RestaurantId": null,
+    "DeliveryStatus": "PENDING"
   }
 ]

@@ -3,350 +3,800 @@
     "Id": "R001",
     "Name": "Restaurant 1",
     "Address": "Address 1",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R001",
+        "Price": 18
+      },
+      {
+        "Name": "Dish 2 - R001",
+        "Price": 43
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R002",
     "Name": "Restaurant 2",
     "Address": "Address 2",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R002",
+        "Price": 24
+      },
+      {
+        "Name": "Dish 2 - R002",
+        "Price": 18
+      }
+    ],
+    "Status": "OPEN"
   },
   {
     "Id": "R003",
     "Name": "Restaurant 3",
     "Address": "Address 3",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R003",
+        "Price": 28
+      },
+      {
+        "Name": "Dish 2 - R003",
+        "Price": 45
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R004",
     "Name": "Restaurant 4",
     "Address": "Address 4",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R004",
+        "Price": 13
+      },
+      {
+        "Name": "Dish 2 - R004",
+        "Price": 41
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R005",
     "Name": "Restaurant 5",
     "Address": "Address 5",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R005",
+        "Price": 23
+      },
+      {
+        "Name": "Dish 2 - R005",
+        "Price": 36
+      }
+    ],
+    "Status": "OPEN"
   },
   {
     "Id": "R006",
     "Name": "Restaurant 6",
     "Address": "Address 6",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R006",
+        "Price": 25
+      },
+      {
+        "Name": "Dish 2 - R006",
+        "Price": 37
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R007",
     "Name": "Restaurant 7",
     "Address": "Address 7",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R007",
+        "Price": 41
+      },
+      {
+        "Name": "Dish 2 - R007",
+        "Price": 29
+      }
+    ],
+    "Status": "OPEN"
   },
   {
     "Id": "R008",
     "Name": "Restaurant 8",
     "Address": "Address 8",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R008",
+        "Price": 41
+      },
+      {
+        "Name": "Dish 2 - R008",
+        "Price": 34
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R009",
     "Name": "Restaurant 9",
     "Address": "Address 9",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R009",
+        "Price": 30
+      },
+      {
+        "Name": "Dish 2 - R009",
+        "Price": 48
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R010",
     "Name": "Restaurant 10",
     "Address": "Address 10",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R010",
+        "Price": 11
+      },
+      {
+        "Name": "Dish 2 - R010",
+        "Price": 33
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R011",
     "Name": "Restaurant 11",
     "Address": "Address 11",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R011",
+        "Price": 47
+      },
+      {
+        "Name": "Dish 2 - R011",
+        "Price": 17
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R012",
     "Name": "Restaurant 12",
     "Address": "Address 12",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R012",
+        "Price": 30
+      },
+      {
+        "Name": "Dish 2 - R012",
+        "Price": 31
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R013",
     "Name": "Restaurant 13",
     "Address": "Address 13",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R013",
+        "Price": 49
+      },
+      {
+        "Name": "Dish 2 - R013",
+        "Price": 11
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R014",
     "Name": "Restaurant 14",
     "Address": "Address 14",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R014",
+        "Price": 42
+      },
+      {
+        "Name": "Dish 2 - R014",
+        "Price": 38
+      }
+    ],
+    "Status": "OPEN"
   },
   {
     "Id": "R015",
     "Name": "Restaurant 15",
     "Address": "Address 15",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R015",
+        "Price": 14
+      },
+      {
+        "Name": "Dish 2 - R015",
+        "Price": 34
+      }
+    ],
+    "Status": "OPEN"
   },
   {
     "Id": "R016",
     "Name": "Restaurant 16",
     "Address": "Address 16",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R016",
+        "Price": 13
+      },
+      {
+        "Name": "Dish 2 - R016",
+        "Price": 26
+      }
+    ],
+    "Status": "OPEN"
   },
   {
     "Id": "R017",
     "Name": "Restaurant 17",
     "Address": "Address 17",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R017",
+        "Price": 31
+      },
+      {
+        "Name": "Dish 2 - R017",
+        "Price": 11
+      }
+    ],
+    "Status": "OPEN"
   },
   {
     "Id": "R018",
     "Name": "Restaurant 18",
     "Address": "Address 18",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R018",
+        "Price": 44
+      },
+      {
+        "Name": "Dish 2 - R018",
+        "Price": 13
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R019",
     "Name": "Restaurant 19",
     "Address": "Address 19",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R019",
+        "Price": 39
+      },
+      {
+        "Name": "Dish 2 - R019",
+        "Price": 48
+      }
+    ],
+    "Status": "OPEN"
   },
   {
     "Id": "R020",
     "Name": "Restaurant 20",
     "Address": "Address 20",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R020",
+        "Price": 18
+      },
+      {
+        "Name": "Dish 2 - R020",
+        "Price": 21
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R021",
     "Name": "Restaurant 21",
     "Address": "Address 21",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R021",
+        "Price": 43
+      },
+      {
+        "Name": "Dish 2 - R021",
+        "Price": 30
+      }
+    ],
+    "Status": "OPEN"
   },
   {
     "Id": "R022",
     "Name": "Restaurant 22",
     "Address": "Address 22",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R022",
+        "Price": 37
+      },
+      {
+        "Name": "Dish 2 - R022",
+        "Price": 14
+      }
+    ],
+    "Status": "OPEN"
   },
   {
     "Id": "R023",
     "Name": "Restaurant 23",
     "Address": "Address 23",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R023",
+        "Price": 25
+      },
+      {
+        "Name": "Dish 2 - R023",
+        "Price": 46
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R024",
     "Name": "Restaurant 24",
     "Address": "Address 24",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R024",
+        "Price": 37
+      },
+      {
+        "Name": "Dish 2 - R024",
+        "Price": 16
+      }
+    ],
+    "Status": "OPEN"
   },
   {
     "Id": "R025",
     "Name": "Restaurant 25",
     "Address": "Address 25",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R025",
+        "Price": 46
+      },
+      {
+        "Name": "Dish 2 - R025",
+        "Price": 44
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R026",
     "Name": "Restaurant 26",
     "Address": "Address 26",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R026",
+        "Price": 23
+      },
+      {
+        "Name": "Dish 2 - R026",
+        "Price": 14
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R027",
     "Name": "Restaurant 27",
     "Address": "Address 27",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R027",
+        "Price": 29
+      },
+      {
+        "Name": "Dish 2 - R027",
+        "Price": 20
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R028",
     "Name": "Restaurant 28",
     "Address": "Address 28",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R028",
+        "Price": 13
+      },
+      {
+        "Name": "Dish 2 - R028",
+        "Price": 12
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R029",
     "Name": "Restaurant 29",
     "Address": "Address 29",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R029",
+        "Price": 21
+      },
+      {
+        "Name": "Dish 2 - R029",
+        "Price": 13
+      }
+    ],
+    "Status": "OPEN"
   },
   {
     "Id": "R030",
     "Name": "Restaurant 30",
     "Address": "Address 30",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R030",
+        "Price": 43
+      },
+      {
+        "Name": "Dish 2 - R030",
+        "Price": 10
+      }
+    ],
+    "Status": "OPEN"
   },
   {
     "Id": "R031",
     "Name": "Restaurant 31",
     "Address": "Address 31",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R031",
+        "Price": 11
+      },
+      {
+        "Name": "Dish 2 - R031",
+        "Price": 29
+      }
+    ],
+    "Status": "OPEN"
   },
   {
     "Id": "R032",
     "Name": "Restaurant 32",
     "Address": "Address 32",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R032",
+        "Price": 39
+      },
+      {
+        "Name": "Dish 2 - R032",
+        "Price": 28
+      }
+    ],
+    "Status": "OPEN"
   },
   {
     "Id": "R033",
     "Name": "Restaurant 33",
     "Address": "Address 33",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R033",
+        "Price": 14
+      },
+      {
+        "Name": "Dish 2 - R033",
+        "Price": 27
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R034",
     "Name": "Restaurant 34",
     "Address": "Address 34",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R034",
+        "Price": 42
+      },
+      {
+        "Name": "Dish 2 - R034",
+        "Price": 10
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R035",
     "Name": "Restaurant 35",
     "Address": "Address 35",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R035",
+        "Price": 21
+      },
+      {
+        "Name": "Dish 2 - R035",
+        "Price": 22
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R036",
     "Name": "Restaurant 36",
     "Address": "Address 36",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R036",
+        "Price": 11
+      },
+      {
+        "Name": "Dish 2 - R036",
+        "Price": 44
+      }
+    ],
+    "Status": "OPEN"
   },
   {
     "Id": "R037",
     "Name": "Restaurant 37",
     "Address": "Address 37",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R037",
+        "Price": 46
+      },
+      {
+        "Name": "Dish 2 - R037",
+        "Price": 43
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R038",
     "Name": "Restaurant 38",
     "Address": "Address 38",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R038",
+        "Price": 35
+      },
+      {
+        "Name": "Dish 2 - R038",
+        "Price": 13
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R039",
     "Name": "Restaurant 39",
     "Address": "Address 39",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R039",
+        "Price": 31
+      },
+      {
+        "Name": "Dish 2 - R039",
+        "Price": 39
+      }
+    ],
+    "Status": "OPEN"
   },
   {
     "Id": "R040",
     "Name": "Restaurant 40",
     "Address": "Address 40",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R040",
+        "Price": 46
+      },
+      {
+        "Name": "Dish 2 - R040",
+        "Price": 28
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R041",
     "Name": "Restaurant 41",
     "Address": "Address 41",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R041",
+        "Price": 37
+      },
+      {
+        "Name": "Dish 2 - R041",
+        "Price": 15
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R042",
     "Name": "Restaurant 42",
     "Address": "Address 42",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R042",
+        "Price": 15
+      },
+      {
+        "Name": "Dish 2 - R042",
+        "Price": 29
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R043",
     "Name": "Restaurant 43",
     "Address": "Address 43",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R043",
+        "Price": 40
+      },
+      {
+        "Name": "Dish 2 - R043",
+        "Price": 18
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R044",
     "Name": "Restaurant 44",
     "Address": "Address 44",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R044",
+        "Price": 12
+      },
+      {
+        "Name": "Dish 2 - R044",
+        "Price": 29
+      }
+    ],
+    "Status": "OPEN"
   },
   {
     "Id": "R045",
     "Name": "Restaurant 45",
     "Address": "Address 45",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R045",
+        "Price": 39
+      },
+      {
+        "Name": "Dish 2 - R045",
+        "Price": 30
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R046",
     "Name": "Restaurant 46",
     "Address": "Address 46",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R046",
+        "Price": 26
+      },
+      {
+        "Name": "Dish 2 - R046",
+        "Price": 43
+      }
+    ],
+    "Status": "CLOSED"
   },
   {
     "Id": "R047",
     "Name": "Restaurant 47",
     "Address": "Address 47",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R047",
+        "Price": 36
+      },
+      {
+        "Name": "Dish 2 - R047",
+        "Price": 32
+      }
+    ],
+    "Status": "OPEN"
   },
   {
     "Id": "R048",
     "Name": "Restaurant 48",
     "Address": "Address 48",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R048",
+        "Price": 29
+      },
+      {
+        "Name": "Dish 2 - R048",
+        "Price": 41
+      }
+    ],
+    "Status": "OPEN"
   },
   {
     "Id": "R049",
     "Name": "Restaurant 49",
     "Address": "Address 49",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R049",
+        "Price": 44
+      },
+      {
+        "Name": "Dish 2 - R049",
+        "Price": 42
+      }
+    ],
+    "Status": "OPEN"
   },
   {
     "Id": "R050",
     "Name": "Restaurant 50",
     "Address": "Address 50",
-    "MenuItems": null,
-    "OperationalStatus": null
+    "Menu": [
+      {
+        "Name": "Dish 1 - R050",
+        "Price": 30
+      },
+      {
+        "Name": "Dish 2 - R050",
+        "Price": 23
+      }
+    ],
+    "Status": "OPEN"
   }
 ]
