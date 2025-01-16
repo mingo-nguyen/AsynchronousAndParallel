@@ -1,0 +1,23 @@
+[
+  {
+    "OrderId": 1,
+    "FoodList": "Fried  Chicken, Coca",
+    "Address": "Ho Chi Minh City",
+    "RestaurantId": "R789",
+    "DeliveryStatus": "PENDING"
+  },
+  {
+    "OrderId": 2,
+    "FoodList": "Pizza, Sprite",
+    "Address": "Ho Chi Minh City",
+    "RestaurantId": "R789",
+    "DeliveryStatus": "PENDING"
+  },
+  {
+    "OrderId": 3,
+    "FoodList": "Noodle, Pepsi",
+    "Address": "Ho Chi Minh City",
+    "RestaurantId": "R789",
+    "DeliveryStatus": "PENDING"
+  }
+]

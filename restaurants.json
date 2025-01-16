@@ -1,0 +1,352 @@
+[
+  {
+    "Id": "R001",
+    "Name": "Restaurant 1",
+    "Address": "Address 1",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R002",
+    "Name": "Restaurant 2",
+    "Address": "Address 2",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R003",
+    "Name": "Restaurant 3",
+    "Address": "Address 3",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R004",
+    "Name": "Restaurant 4",
+    "Address": "Address 4",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R005",
+    "Name": "Restaurant 5",
+    "Address": "Address 5",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R006",
+    "Name": "Restaurant 6",
+    "Address": "Address 6",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R007",
+    "Name": "Restaurant 7",
+    "Address": "Address 7",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R008",
+    "Name": "Restaurant 8",
+    "Address": "Address 8",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R009",
+    "Name": "Restaurant 9",
+    "Address": "Address 9",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R010",
+    "Name": "Restaurant 10",
+    "Address": "Address 10",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R011",
+    "Name": "Restaurant 11",
+    "Address": "Address 11",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R012",
+    "Name": "Restaurant 12",
+    "Address": "Address 12",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R013",
+    "Name": "Restaurant 13",
+    "Address": "Address 13",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R014",
+    "Name": "Restaurant 14",
+    "Address": "Address 14",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R015",
+    "Name": "Restaurant 15",
+    "Address": "Address 15",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R016",
+    "Name": "Restaurant 16",
+    "Address": "Address 16",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R017",
+    "Name": "Restaurant 17",
+    "Address": "Address 17",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R018",
+    "Name": "Restaurant 18",
+    "Address": "Address 18",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R019",
+    "Name": "Restaurant 19",
+    "Address": "Address 19",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R020",
+    "Name": "Restaurant 20",
+    "Address": "Address 20",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R021",
+    "Name": "Restaurant 21",
+    "Address": "Address 21",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R022",
+    "Name": "Restaurant 22",
+    "Address": "Address 22",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R023",
+    "Name": "Restaurant 23",
+    "Address": "Address 23",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R024",
+    "Name": "Restaurant 24",
+    "Address": "Address 24",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R025",
+    "Name": "Restaurant 25",
+    "Address": "Address 25",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R026",
+    "Name": "Restaurant 26",
+    "Address": "Address 26",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R027",
+    "Name": "Restaurant 27",
+    "Address": "Address 27",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R028",
+    "Name": "Restaurant 28",
+    "Address": "Address 28",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R029",
+    "Name": "Restaurant 29",
+    "Address": "Address 29",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R030",
+    "Name": "Restaurant 30",
+    "Address": "Address 30",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R031",
+    "Name": "Restaurant 31",
+    "Address": "Address 31",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R032",
+    "Name": "Restaurant 32",
+    "Address": "Address 32",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R033",
+    "Name": "Restaurant 33",
+    "Address": "Address 33",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R034",
+    "Name": "Restaurant 34",
+    "Address": "Address 34",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R035",
+    "Name": "Restaurant 35",
+    "Address": "Address 35",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R036",
+    "Name": "Restaurant 36",
+    "Address": "Address 36",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R037",
+    "Name": "Restaurant 37",
+    "Address": "Address 37",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R038",
+    "Name": "Restaurant 38",
+    "Address": "Address 38",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R039",
+    "Name": "Restaurant 39",
+    "Address": "Address 39",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R040",
+    "Name": "Restaurant 40",
+    "Address": "Address 40",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R041",
+    "Name": "Restaurant 41",
+    "Address": "Address 41",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R042",
+    "Name": "Restaurant 42",
+    "Address": "Address 42",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R043",
+    "Name": "Restaurant 43",
+    "Address": "Address 43",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R044",
+    "Name": "Restaurant 44",
+    "Address": "Address 44",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R045",
+    "Name": "Restaurant 45",
+    "Address": "Address 45",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R046",
+    "Name": "Restaurant 46",
+    "Address": "Address 46",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R047",
+    "Name": "Restaurant 47",
+    "Address": "Address 47",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R048",
+    "Name": "Restaurant 48",
+    "Address": "Address 48",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R049",
+    "Name": "Restaurant 49",
+    "Address": "Address 49",
+    "MenuItems": null,
+    "OperationalStatus": null
+  },
+  {
+    "Id": "R050",
+    "Name": "Restaurant 50",
+    "Address": "Address 50",
+    "MenuItems": null,
+    "OperationalStatus": null
+  }
+]
